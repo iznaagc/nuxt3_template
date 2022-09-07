@@ -8,13 +8,14 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
-    "nuxt": "3.0.0-rc.9",
-    "pug": "^3.0.2",
     "autoprefixer": "^10.4.8",
+    "nuxt": "3.0.0-rc.9",
     "postcss": "^8.4.16",
+    "pug": "^3.0.2",
     "sass": "^1.54.8",
     "vanilla-framework": "^3.7.0"
   },
   "dependencies": {
+    "@nuxt/content": "npm:@nuxt/content-edge"
   }
 }
